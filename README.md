@@ -3,7 +3,8 @@ Open Source proxy that bypasses web filters, supports many sites. In short, it's
 
 # Deploying
 
-<a href="https://repl.it/github/jangodev/nebulaproxy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
+<a href="https://repl.it/github/jangodev/nebulaproxy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Woofydude/NebulaProxy)
+
 
 # Supports
 - Any static site
